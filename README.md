@@ -9,4 +9,5 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jffmorais)](https://github.com/jffmorais)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jffmorais&layout=compact&show_icons=true)
+
